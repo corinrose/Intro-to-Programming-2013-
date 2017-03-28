@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1386886378 source:/Users/corinrose/Desktop/Randomizer/main.cpp
+	<iostream>
+	<time.h>
+	<cmath>
+	<vector>
+
+1388260360 source:/Users/corinrose/Desktop/IntroProg2013/Randomizer/main.cpp
+	<iostream>
+	<time.h>
+	<cmath>
+	<vector>
+	<fstream>
+

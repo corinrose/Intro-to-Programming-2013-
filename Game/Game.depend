@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1382362474 source:c:\users\corin rose\desktop\game\glhelper.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<Windows.h>
+	"glHelper.h"
+
+1382362860 c:\users\corin rose\desktop\game\glhelper.h
+	<string>
+
+1383592589 source:c:\users\corin rose\desktop\game\main.cpp
+	"glHelper.h"
+	<iostream>
+	<string>
+	<cmath>
+	<sstream>
+	<vector>
+	<windows.h>
+

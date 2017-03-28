@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1384905891 source:/Users/corinrose/Desktop/IntroProg2013/Hwk103rosec/main.cpp
+	<vector>
+	<iostream>
+	"Animal.h"
+	"Unicorn.h"
+	"American.h"
+
+1384904495 /Users/corinrose/Desktop/IntroProg2013/Hwk103rosec/include/Animal.h
+	<string>
+
+1384997235 /Users/corinrose/Desktop/IntroProg2013/Hwk103rosec/include/Unicorn.h
+	"Animal.h"
+
+1384904885 /Users/corinrose/Desktop/IntroProg2013/Hwk103rosec/include/American.h
+	"Animal.h"
+
+1384904898 source:/Users/corinrose/Desktop/IntroProg2013/Hwk103rosec/src/American.cpp
+	<iostream>
+	"American.h"
+
+1384905811 source:/Users/corinrose/Desktop/IntroProg2013/Hwk103rosec/src/Animal.cpp
+	<iostream>
+	"Animal.h"
+
+1384997187 source:/Users/corinrose/Desktop/IntroProg2013/Hwk103rosec/src/Unicorn.cpp
+	<iostream>
+	"Unicorn.h"
+

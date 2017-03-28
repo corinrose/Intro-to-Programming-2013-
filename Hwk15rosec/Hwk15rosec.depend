@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1381859754 source:\\vboxsvr\introprog2013\hwk15rosec\main.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<windows.h>
+

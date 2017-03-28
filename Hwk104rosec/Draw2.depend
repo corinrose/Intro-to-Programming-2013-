@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1386098070 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\button.cpp
+	"Button.h"
+	"glHelper.h"
+
+1386098070 c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\include\button.h
+	"Rect2d.h"
+
+1386095925 c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\include\rect2d.h
+	"Vec2d.h"
+
+1386076466 c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\include\vec2d.h
+
+1386076466 c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\include\glhelper.h
+	<string>
+
+1386098248 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\drawing.cpp
+	"Drawing.h"
+	"RectShape.h"
+	<iostream>
+
+1386097123 c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\include\drawing.h
+	<vector>
+	"shape.h"
+	"button.h"
+	"glHelper.h"
+
+1386095924 c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\include\shape.h
+
+1386076466 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\font.cpp
+	"glHelper.h"
+	"font.h"
+	<ostream>
+	<vector>
+	"segment.h"
+
+1386076466 c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\include\font.h
+	<string>
+	"Vec2d.h"
+	"PolyLine.h"
+
+1386076466 c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\include\polyline.h
+	<vector>
+	"Vec2d.h"
+
+1386076466 c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\include\segment.h
+	"Vec2d.h"
+
+1386076466 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\glhelper.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<Windows.h>
+	"glHelper.h"
+
+1386076466 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\main.cpp
+	"glHelper.h"
+	<iostream>
+	<string>
+	"PolyLine.h"
+	"Font.h"
+	"drawing.h"
+
+1386076466 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\polyline.cpp
+	"PolyLine.h"
+	<cmath>
+
+1386076466 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\polylineset.cpp
+	"PolyLineSet.h"
+
+1386076466 c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\include\polylineset.h
+	"PolyLine.h"
+
+1386076466 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\rect2d.cpp
+	"Rect2d.h"
+
+1386076466 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\segment.cpp
+	"Segment.h"
+
+1386076466 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\shape.cpp
+	"Shape.h"
+
+1386076466 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\vec2d.cpp
+	<cmath>
+	"Vec2d.h"
+	"glHelper.h"
+
+1386096403 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\src\rectshape.cpp
+	"RectShape.h"
+	"Drawing.h"
+
+1386096403 c:\users\hamling\documents\teaching\intro to programming\introprog2013\myprojects\draw2\include\rectshape.h
+	"shape.h"
+
+1386262415 source:c:\users\corin rose\desktop\draw 2\src\button.cpp
+	"Button.h"
+	"glHelper.h"
+
+1386262440 c:\users\corin rose\desktop\draw 2\include\button.h
+	"Rect2d.h"
+
+1386262440 c:\users\corin rose\desktop\draw 2\include\rect2d.h
+	"Vec2d.h"
+
+1386262440 c:\users\corin rose\desktop\draw 2\include\vec2d.h
+
+1386262442 c:\users\corin rose\desktop\draw 2\include\glhelper.h
+	<string>
+
+1386262416 source:c:\users\corin rose\desktop\draw 2\src\font.cpp
+	"glHelper.h"
+	"font.h"
+	<ostream>
+	<vector>
+	"segment.h"
+
+1386262440 c:\users\corin rose\desktop\draw 2\include\font.h
+	<string>
+	"Vec2d.h"
+	"PolyLine.h"
+
+1386262440 c:\users\corin rose\desktop\draw 2\include\polyline.h
+	<vector>
+	"Vec2d.h"
+
+1386263857 c:\users\corin rose\desktop\draw 2\include\segment.h
+	"Vec2d.h"
+	"Shape.h"
+
+1386262416 source:c:\users\corin rose\desktop\draw 2\src\glhelper.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<Windows.h>
+	"glHelper.h"
+
+1386262415 source:c:\users\corin rose\desktop\draw 2\src\main.cpp
+	"glHelper.h"
+	<iostream>
+	<string>
+	"PolyLine.h"
+	"Font.h"
+	"drawing.h"
+
+1386262440 c:\users\corin rose\desktop\draw 2\include\drawing.h
+	<vector>
+	"shape.h"
+	"button.h"
+	"glHelper.h"
+
+1386262440 c:\users\corin rose\desktop\draw 2\include\shape.h
+
+1386262415 source:c:\users\corin rose\desktop\draw 2\src\polyline.cpp
+	"PolyLine.h"
+	<cmath>
+
+1386262415 source:c:\users\corin rose\desktop\draw 2\src\polylineset.cpp
+	"PolyLineSet.h"
+
+1386262440 c:\users\corin rose\desktop\draw 2\include\polylineset.h
+	"PolyLine.h"
+
+1386262415 source:c:\users\corin rose\desktop\draw 2\src\rect2d.cpp
+	"Rect2d.h"
+
+1386262415 source:c:\users\corin rose\desktop\draw 2\src\rectshape.cpp
+	"RectShape.h"
+	"Drawing.h"
+
+1386262440 c:\users\corin rose\desktop\draw 2\include\rectshape.h
+	"shape.h"
+
+1386262415 source:c:\users\corin rose\desktop\draw 2\src\segment.cpp
+	"Segment.h"
+
+1386262415 source:c:\users\corin rose\desktop\draw 2\src\shape.cpp
+	"Shape.h"
+
+1386262415 source:c:\users\corin rose\desktop\draw 2\src\vec2d.cpp
+	<cmath>
+	"Vec2d.h"
+	"glHelper.h"
+
+1386264313 source:c:\users\corin rose\desktop\draw 2\src\drawing.cpp
+	"Drawing.h"
+	"RectShape.h"
+	"Line.h"
+	<iostream>
+
+1386263857 c:\users\corin rose\desktop\draw 2\include\line.h
+	"Shape.h"
+	"Vec2d.h"
+
+1386264167 source:c:\users\corin rose\desktop\draw 2\src\line.cpp
+	"Line.h"
+	"glHelper.h"
+

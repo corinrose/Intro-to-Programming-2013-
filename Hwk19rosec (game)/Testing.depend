@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1381272042 source:c:\users\corin rose\desktop\testing\testing.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1382366074 source:c:\users\corin rose\desktop\testing\glhelper.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<Windows.h>
+	"glHelper.h"
+
+1382366460 c:\users\corin rose\desktop\testing\glhelper.h
+	<string>
+
+1383341528 source:c:\users\corin rose\desktop\testing\main.cpp
+	"glHelper.h"
+	<iostream>
+	<string>
+	<cmath>
+	<sstream>
+	<vector>
+

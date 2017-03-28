@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1382809514 source:c:\users\corin rose\desktop\codeblocksskeleton\glhelper.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<Windows.h>
+	"glHelper.h"
+
+1382809577 c:\users\corin rose\desktop\codeblocksskeleton\glhelper.h
+	<string>
+
+1382835392 source:c:\users\corin rose\desktop\codeblocksskeleton\main.cpp
+	"glHelper.h"
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+

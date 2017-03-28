@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1384536179 source:/Users/corinrose/Desktop/IntroProg2013/Hwk102rosec/Imaginary.cpp
+	"Imaginary.h"
+	<iostream>
+	<cmath>
+
+1384536179 /Users/corinrose/Desktop/IntroProg2013/Hwk102rosec/Imaginary.h
+
+1384538647 source:/Users/corinrose/Desktop/IntroProg2013/Hwk102rosec/main.cpp
+	<iostream>
+	"imaginary.h"
+

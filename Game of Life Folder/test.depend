@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1385344017 source:/Users/corinrose/Desktop/test/GameObject.cpp
+	<iostream>
+	"GameObject.h"
+
+1385344025 /Users/corinrose/Desktop/test/GameObject.h
+	<vector>
+
+1385424474 source:/Users/corinrose/Desktop/test/main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"GameObject.h"
+

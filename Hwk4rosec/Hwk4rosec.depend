@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1378298772 source:c:\users\hamling\documents\teaching\intro to programming\introprog2013\session2\rosecorin\hwk4rosec\main.cpp
+	<iostream>
+	<iomanip>
+

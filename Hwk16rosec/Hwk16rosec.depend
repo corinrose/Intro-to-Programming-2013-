@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1382052647 source:\\vboxsvr\introprog2013\hwk16rosec\main.cpp
+	"OpenGLStuff.h"
+
+1382050041 \\vboxsvr\introprog2013\hwk16rosec\openglstuff.h
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<windows.h>
+	<vector>
+

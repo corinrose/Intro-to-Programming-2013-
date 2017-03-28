@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1380580240 source:/Users/corinrose/Desktop/Hwk10rosec/main.cpp
+	<iostream>
+	<time.h>
+	<vector>
+
+1381105555 source:/Users/corinrose/Desktop/IntroProg2013/Hwk10rosec/main.cpp
+	<iostream>
+	<time.h>
+	<vector>
+	<iomanip>
+

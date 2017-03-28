@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Draw2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Draw2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++0x" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Draw2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++11" />
+			<Add option="-Wall" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add library="glfw3" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+		</Linker>
+		<Unit filename="include/Button.h" />
+		<Unit filename="include/Drawing.h" />
+		<Unit filename="include/Font.h" />
+		<Unit filename="include/Line.h" />
+		<Unit filename="include/PolyLine.h" />
+		<Unit filename="include/PolyLineSet.h" />
+		<Unit filename="include/Rect2d.h" />
+		<Unit filename="include/RectShape.h" />
+		<Unit filename="include/Segment.h" />
+		<Unit filename="include/Shape.h" />
+		<Unit filename="include/Vec2d.h" />
+		<Unit filename="include/glHelper.h" />
+		<Unit filename="src/Button.cpp" />
+		<Unit filename="src/Drawing.cpp" />
+		<Unit filename="src/Font.cpp" />
+		<Unit filename="src/Line.cpp" />
+		<Unit filename="src/PolyLine.cpp" />
+		<Unit filename="src/PolyLineSet.cpp" />
+		<Unit filename="src/Rect2d.cpp" />
+		<Unit filename="src/RectShape.cpp" />
+		<Unit filename="src/Segment.cpp" />
+		<Unit filename="src/Shape.cpp" />
+		<Unit filename="src/Vec2d.cpp" />
+		<Unit filename="src/glHelper.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

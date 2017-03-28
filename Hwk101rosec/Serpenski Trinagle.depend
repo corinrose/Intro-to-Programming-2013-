@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1383667283 source:c:\users\corin rose\desktop\hwk101rosec\glhelper.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<Windows.h>
+	"glHelper.h"
+
+1383667283 c:\users\corin rose\desktop\hwk101rosec\glhelper.h
+	<string>
+
+1383668175 source:c:\users\corin rose\desktop\hwk101rosec\pixels.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<cstring>
+	"pixels.h"
+
+1383668237 c:\users\corin rose\desktop\hwk101rosec\pixels.h
+
+1383868980 source:c:\users\corin rose\desktop\hwk101rosec\main.cpp
+	"glHelper.h"
+	<iostream>
+	<string>
+	"pixels.h"
+

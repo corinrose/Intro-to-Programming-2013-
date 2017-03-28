@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1353754660 source:c:\users\corin rose\desktop\hwk11rosec\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1381173590 source:c:\users\corin rose\desktop\hwk11rosec\main.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1381347044 source:c:\users\corin rose\desktop\hwk13rosec\main.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+
